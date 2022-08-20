@@ -233,7 +233,7 @@ const menu = [
   {
     id: 27,
     title: "Anjali",
-    category: "CONTENT & CREATIVE ",
+    category: "CONTENT & CREATIVE",
     price: "CONTENT & CREATIVE",
     img: "https://kashiyatra-2022.netlify.app/img/teamimg/man.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
@@ -249,7 +249,7 @@ const menu = [
   {
     id: 29,
     title: "Apurv",
-    category: "CULT COUNCIL ",
+    category: "CULT COUNCIL",
     price: "CULT COUNCIL",
     img: "https://kashiyatra-2022.netlify.app/img/teamimg/man.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
