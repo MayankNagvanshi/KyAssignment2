@@ -11,7 +11,7 @@ const Menu = ({items}) => { // this  items is not orginial list ,it is menu item
             <div className="item-info">
               <header>
                 <h4>{title}</h4>
-                <h4 className='price'>${price}</h4>
+                <h4 className='price'>{price}</h4>
               </header>
               <div className="item-text">{desc}</div>
               
